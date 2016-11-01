@@ -1,0 +1,28 @@
+body {
+    margin: auto;
+    width: 970px;
+    height: auto;
+}
+
+.container {
+    text-align: center;
+    padding: 10px;
+    width: 970px;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: left;
+}
+
+p {
+  color: white;  
+}
+
+.box {
+    width: 450px;
+    height: 450px;
+    display: inline;
+    margin: 5px;
+}
